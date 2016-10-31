@@ -1,5 +1,11 @@
 ## 想方设法不使用图片
 网页中占据流量大头的就是图片，基本占据50%以上，而活动页或产品展示页基本都在90%以上
+* 使用字体实现icon图片，可以按需加载字体，做到最小化
+	* 按需下载字体（http://www.iconfont.cn/plus/collections/index）
+	* 详细的使用说明（http://www.alloyteam.com/2015/05/%E6%B5%85%E5%B0%9Diconfont/）
+* 通过纯css实现一些icon图标，如箭头，对勾，×等等
+	* http://cssicon.space/
+	* http://saeedalipoor.github.io/icono/
 
 ## 色彩和层次简单的用png格式（如logo图片），反之用jpg图片（如产品类）
 png格式非常适合处理色彩和层次相对单一的图片，反之jpg格式更加适合，格式用对了，可以保证相同大小情况下图片更加清晰，或者相同清晰度下图片更小
